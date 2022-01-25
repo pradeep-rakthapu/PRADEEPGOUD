@@ -2,9 +2,9 @@
  # Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeep-goud-14983b129/)](https://www.linkedin.com/in/pradeep-goud-14983b129/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/17939817/pradeepgoud-rakthapu)
+[![Linkedin Badge](https://img.shields.io/badge/-pradeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeep-goud-14983b129/)](https://www.linkedin.com/in/pradeep-goud-14983b129/)
+[![Website Badge](https://img.shields.io/badge/WebSite-pradeep-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-pradeep-yellow)](https://stackoverflow.com/users/17939817/pradeepgoud-rakthapu)
 
 I'm
 Full Stack Solution Architect
